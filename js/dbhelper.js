@@ -28,6 +28,7 @@ class DBHelper {
         callback(error, null);
       }
     };
+    xhr.setRequestHeader('Access-Control-Allow-Headers', '*');
     xhr.send();
   }
 
