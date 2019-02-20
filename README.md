@@ -4,7 +4,7 @@
 
 Student Project #6 during Google Front-End Development Nanodegree Program at Udacity
 
-[See live project](https://dominicom.github.io/restaurant-review-app/)
+[See live project](https://github.com/jeffpdavies/mws-restaurant-stage-1/)
 
 ## Table of Contents
 
@@ -24,10 +24,6 @@ For the **Restaurant Reviews** projects, students have to incrementally convert 
 
 Student has been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Student job is to update the code to resolve these issues while still maintaining the included functionality.
 
-#### Note about ES6
-
-Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
-
 #### Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). Student needs to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
@@ -39,7 +35,7 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 #### Possible choices:
 
-**1**. Open live project [here](https://dominicom.github.io/restaurant-review-app/).
+**1**. Open live project [here](https://github.com/jeffpdavies/mws-restaurant-stage-1/).
 
 **2**. Or run it on your local machine:
 * download or clone the repository
